@@ -3,6 +3,7 @@ title: "Catch and Store Error Messages in PowerShell"
 datePublished: Wed May 10 2023 15:51:44 GMT+0000 (Coordinated Universal Time)
 cuid: clhhvozr1000109mee2uh1dep
 slug: catch-and-store-error-messages-in-powershell
+cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/heNwUmEtZzo/upload/5b8fc560a40dd8d28923c41cf8ae829f.jpeg
 tags: powershell, try-and-catch
 
 ---
